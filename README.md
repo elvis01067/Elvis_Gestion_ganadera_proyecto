@@ -83,10 +83,5 @@ Swing (para la interfaz gráfica)
 Contribución
 Para contribuir al proyecto:
 
-Hacer fork del repositorio
-Crear una rama para tu funcionalidad (git checkout -b feature/nueva-funcionalidad)
-Hacer commit de tus cambios (git commit -am 'Añadir nueva funcionalidad')
-Push a la rama (git push origin feature/nueva-funcionalidad)
-Crear un Pull Request
-Licencia
-[Especificar la licencia del proyecto]
+Corrase desde la clase principal mein tiene como correr desde los formularios 
+pero no saldra completo las funciones como es el login y daria error 
